@@ -25,12 +25,12 @@
 // 📘 5. Extracting Parts of a String
 // - slice(start, end)
 // - substring(start, end)
-// - substr(start, length) — (mention it's deprecated)
+
 
 // 📘 6. Replacing and Modifying
 // - replace()
 // - replaceAll()
-// - trim(), trimStart(), trimEnd()
+// - trim()
 
 // 📘 7. Splitting and Joining
 // - split(separator)

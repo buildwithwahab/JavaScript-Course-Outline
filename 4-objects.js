@@ -25,22 +25,7 @@
 // - Objects inside objects
 // - Accessing nested values: object.inner.key
 
-// 📘 7. Object Methods
-// - Functions as object properties
-// - Using `this` keyword inside a method
 
-// 📘 8. Looping Through Objects
-// - Using `for...in` to loop keys
-// - Getting values with object[key]
-
-// 📘 9. Built-in Object Methods
-// - Object.keys(), Object.values(), Object.entries()
-// - Object.hasOwnProperty()
-
-// 📘 10. Destructuring Objects
+// 📘 7. Destructuring Objects
 // - Extracting properties into variables
 // - Basic syntax: `const { name, age } = person`
-
-// 📘 11. Best Practices
-// - Use const for objects (reference doesn’t change)
-// - Use camelCase for property names

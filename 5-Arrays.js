@@ -36,18 +36,8 @@
 // 📘 8. Modifying Arrays
 // - splice(): add/remove items at any position
 // - slice(): copy part of array
-// - reverse(), sort()
 
 // 📘 9. Transforming Arrays
 // - map(): transform each item
 // - filter(): get items that match condition
-// - reduce(): combine all items into a single value
 
-// 📘 10. Combining and Copying Arrays
-// - concat(): combine arrays
-// - spread operator: [...arr]
-// - Array.from() to convert iterable to array
-
-// 📘 11. Best Practices
-// - Use const for arrays unless reassigning
-// - Avoid modifying original array if not needed (use copy)
